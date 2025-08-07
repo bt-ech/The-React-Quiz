@@ -34,6 +34,9 @@ A dynamic and interactive quiz application built using **React**, utilizing `use
 ### 🏠 Quiz Page
 ![Quiz Page](./Screenshots/QuizPage.png)
 
+### 🏠 Quiz Page 2
+![Quiz Page](./Screenshots/QuizPage2.png)
+
 
 ---
 
