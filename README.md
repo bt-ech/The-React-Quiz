@@ -29,10 +29,10 @@ A dynamic and interactive quiz application built using **React**, utilizing `use
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Screenshots/home.png)
 
 ### 🏠 Quiz Page
-![Home Page](./screenshots/QuizPage.png)
+![Quiz Page](./Screenshots/QuizPage.png)
 
 
 ---
